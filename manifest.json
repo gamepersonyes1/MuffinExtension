@@ -4,7 +4,7 @@
   "description": "muffins",
   "version": "1.0",
   "action": {
-    "default_popup": "hello.html",
-    "default_icon": "muffinLogo.png"
+    "default_popup": "scripts/hello.html",
+    "default_icon": "images/muffinLogo.png"
   }
 }
