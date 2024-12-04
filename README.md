@@ -1,7 +1,7 @@
 # MuffinExtension
-Muffin
+Says its muffin time!
 
-Does some stuff might add more stuff relating to muffins!
+This extention is pretty basic so please check out other ones as this is kinda useless.
 
 
 Update Log
